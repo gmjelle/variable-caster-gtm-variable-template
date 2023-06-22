@@ -1,5 +1,5 @@
-homepage: "https://vandevliet.me"
-documentation: "https://vandevliet.me/cast-your-gtm-variables-to-another-type-with-this-new-gtm-tag-template/"
+homepage: https://vandevliet.me
+documentation: https://vandevliet.me/cast-your-gtm-variables-to-another-type-with-this-new-gtm-tag-template/
 versions:
-    - sha: //
-      changeNotes: Initial release.
+  -sha: 0f7173cc7659a975a484058d624ebcfb0129133b
+  changeNotes: Initial release.
